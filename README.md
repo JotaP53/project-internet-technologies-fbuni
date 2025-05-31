@@ -6,7 +6,7 @@ Este projeto consiste no desenvolvimento front-end de um website para uma agênc
 
 O projeto serviu como avaliação da cadeira de Tecnologias de Internet do Centro Universitário Farias Brito.
 
-[Visite o protótipo no Figma](https://www.figma.com/design/9KJ0TJzWD1xDuKOFIWk2K6/trabalho-v2?node-id=8-2&t=5PW797AApxqD2dna-1)
+<a href="https://www.figma.com/design/9KJ0TJzWD1xDuKOFIWk2K6/trabalho-v2?node-id=8-2&t=5PW797AApxqD2dna-1" target="_blank" rel="noopener noreferrer">Visite o protótipo no Figma</a>
 
 ## Funcionalidades Implementadas (Seções)
 
